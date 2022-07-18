@@ -1,0 +1,32 @@
+body {
+	font-family: "Roboto Serif", sans-serif;
+}
+.imgh {
+	height: 500;
+}
+section {
+	padding-top: 30px;
+}
+.card {
+	padding: 10px;
+	margin: 5px;
+}
+
+.main {
+	padding: 10px 20px 10px 20px;
+	background-color: black;
+}
+.c.t {
+	position: relative;
+	text-align: center;
+	color: white;
+}
+.ot {
+	border-radius: 25%;
+}
+.mes {
+	padding-top: 20px;
+}
+.OT {
+	margin-top: 40px;
+}
